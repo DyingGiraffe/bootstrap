@@ -695,6 +695,6 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 	    float: none;
         clear: both;
         position: relative;
+        padding-bottom: 20%;
         height: 0;
-  		left: -10;
 }
