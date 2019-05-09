@@ -695,6 +695,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 	    float: none;
         clear: both;
         position: relative;
+		padding-top: 20%;
         padding-bottom: 20%;
         height: 0;
   		left: 20px;
