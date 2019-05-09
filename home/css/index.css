@@ -485,10 +485,12 @@ header.masthead .intro-text .intro-heading {
 .timeline .timeline-heading h4 {
   margin-top: 0;
   color: inherit;
+  font-family: Russo One;
 }
 
 .timeline .timeline-heading h4.subheading {
-  text-transform: none;
+ text-transform: none;
+ font-family: Russo One; 
 }
 
 .timeline .timeline-body > ul,
