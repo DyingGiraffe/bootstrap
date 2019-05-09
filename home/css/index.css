@@ -690,14 +690,3 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
 }
-
-.video {
-	    float: none;
-        clear: both;
-        position: relative;
-		padding-top: -10%;
-        padding-bottom: 20%;
-        height: 0;
-  		left: 20px;
-  		right: -420px
-}
